@@ -1,3 +1,3 @@
 ## adicionando linhas a esta merda ##
-print("Jesus Criso o maior de todoss")
+print("Jesus Criso o maior de toodoss")
 
